@@ -1,0 +1,9 @@
+Django==5.0.6
+djangorestframework==3.15.1
+pandas==2.2.2
+matplotlib==3.10.8
+seaborn==0.13.2
+mplsoccer==1.6.1
+statsbombpy==1.17.0
+psycopg2-binary==2.9.10
+psycopg-binary==3.3.1
